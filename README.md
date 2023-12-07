@@ -74,5 +74,5 @@ Before running this project, ensure that you have the following prerequisites in
 
 == References ==
 
-- Project Folder:  https://github.com/  
+- Project Folder:  [https://github.com/  ](https://github.com/thisismynameinGitHub/Group7project.git)
 - Contributor Name : 2023 Autumn Hong Kong Metropolitan University COMPS350F Group 7 student
