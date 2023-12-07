@@ -1,0 +1,16 @@
+
+
+{
+
+  "password":["t11111","t22222"],
+  "userID":["t001","t002"],
+  "subjects" :[
+
+  ["University Chinese","Physics"],
+  ["University Chinese"],
+  ["University English"],
+  ["University Chinese","University English", "Biology"]
+
+]
+
+}
